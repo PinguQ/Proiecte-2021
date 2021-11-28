@@ -1,0 +1,67 @@
+www.pctech.ro
+    COMPONENTE
+    10
+    placa video nVidia 1660
+    2300
+    6gb, RAM, 3 ventilatoare, clock 1600, putere 300W, Rezolutie maxima	7680x4320 pixel
+    9
+    placa video e foarte misto. Inainte sa o achizitionez am cam verificat orice implementare a RTX-ului 2060 si am citit si vazut video-uri pe YouTube despre fiecare in parte. Asta este de departe cea mai buna.
+    procesor intel core i7
+    1700
+    socket 1200, frecventa 3,6, tdp 125W
+    10
+    un procesor la un pret decent, multumit de el, il folosesc pe o statie de editare video!
+    sursa Corsair
+    500
+    600W, certificare gold+, asamblare premium, eficienta 89%
+    8
+    Este foarte buna aceasta sursa!
+    hdd seagate
+    1358
+    8TB, 7200 RPM
+    10
+    Bun pentru NAS
+    carcasa pc Corsair
+    600
+    ventilatoare incluse, greutate 8kg, permite asambplarea gold
+    9
+    carcasa arata perfect, atentia la detalii este vizibila.
+    cooler corsair
+    500
+    compatibil socket toate, iluminare rgb, tip racire:lichid, nivel zgomot 37 DBA
+    10
+    instalare usoara, isi merita banii
+    memorie RAM 8GB Corsair
+    450
+    iluminare led, frecventa 3200 MHZ, latenta 16cl
+    8
+    raportul calitate pret este bun
+    procesor intel core i5
+    900
+    numar nuclee 6, socket 1200, frecventa 2.6 , tdp 65W
+    9
+    procesorul este foarte bun, merita banii.
+placa de captura ElGato
+    359
+    intrari iesiri hdmi, compatibil Windows 10
+    10
+    e super, l-am luat pentru a inregistra semnalul tv.
+    ssd samsung
+    800
+    capacitate 1TB, recomandat pentru gamiang,  citire si scriere 3500
+    10
+    ssd-ul este foarte bun, se misca foarte bine.
+    LAPTOP-URI
+    1
+    produsLaptop1
+    100
+    specificatiiLaptop
+    10
+    reviewLaptop
+    MONITOARE
+    1
+    produsMonitoare1
+    100
+    specificatiiMonitor
+    10
+    reviewMonitor
